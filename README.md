@@ -1,6 +1,6 @@
 # NLP Language Modeling Lab 🚀
 
-Welcome to the NLP Language Modeling Lab repository! This project is designed to help you dive deep into Natural Language Processing (NLP) using the Sklearn library. You will work on both regression and classification tasks to develop a comprehensive understanding of NLP techniques and models.
+Welcome to the NLP Language Modeling Lab! In this project, you'll explore Natural Language Processing (NLP) using Sklearn. You'll tackle regression and classification tasks to grasp NLP techniques and models thoroughly.
 
 ## Objective 🎯
 The main objective of this lab is to get hands-on experience with various NLP language models and machine learning algorithms.
@@ -30,4 +30,4 @@ The main objective of this lab is to get hands-on experience with various NLP la
 3. *Train Models*: SVM, Naive Bayes, Logistic Regression, AdaBoost.
 4. *Evaluate Models*: Using accuracy, F1 score, BLEU score.
 
-Happy Analyzing! 🚀✨
+Happy Analyzing! 
